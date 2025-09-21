@@ -51,7 +51,7 @@ DBPassword=password
 ![2](https://github.com/Epishin4701/zabbix_1/blob/main/img/2.PNG)
 
 Скриншот лога zabbix agent у debian, где видно, что он работает с сервером
-![3](https://github.com/Epishin4701/zabbix_1/blob/main/img/3.PNG)
+![3](https://github.com/Epishin4701/zabbix_1/blob/main/img/4.PNG)
 
 Скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
-![4](https://github.com/Epishin4701/zabbix_1/blob/main/img/4.PNG)
+![4](https://github.com/Epishin4701/zabbix_1/blob/main/img/3.PNG)
